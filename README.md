@@ -1,6 +1,4 @@
-### Olá, pessoal! # bem vindo ao meu perfil, eu sou Maurício Mbala👋
-
-##
+### Olá, pessoal! # bem vindo ao meu perfil, eu sou <h1>Maurício Mbala 👋</h1>
 
 - 🔭 Estou Aprendendo front-end
 - 🌱 Estundando JavaScript & React
