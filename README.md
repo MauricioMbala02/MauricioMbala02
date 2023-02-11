@@ -31,3 +31,5 @@
  <a href="https://discord.com/channels/1070113462237274182/1070113463621406791" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mauriciombalajr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+![snake gif](https://github.com/MauricioMbala02/MauricioMbala02/blob/output/github-contribution-grid-snake.svg)
