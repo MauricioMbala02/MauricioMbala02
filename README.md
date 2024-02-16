@@ -1,13 +1,14 @@
-### Olá, pessoal! # bem vindo ao meu perfil, eu sou <h1>Maurício Mbala 👋</h1>
+### Saudações de acordo ao horário do dia👋 Bem-vindo ao meu perfil, eu sou
+<h1>Maurício Mbala, prazer 😊🤝</h1>
 
-- 🔭 Estou Aprendendo front-end
-- 🌱 Estundando JavaScript, TypeScript, Node.js & React
-- 😅 Também estou aprendendo C#
+- 💻 Desenvolvedor web
+- 🎯 Actualmente trabalho como front-end developer e suporte de operações
 
-<p align="left">
-<img width="420em" src="https://github-readme-stats.vercel.app/api?username=MauricioMbala02&show_icons=true&theme=dracula&include_all_commits=true&count_private=treu" alt="mauriciombala"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioMbala02&layout=compact&langs_count=16&theme=dracula" alt="mauriciombala"/>
-</p>
+<div align="justify">
+  <a href="https://github.com/MauricioMbala02">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauricioMbala02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioMbala02&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ## 💻 Pilha de Tecnologia
 
