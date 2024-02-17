@@ -1,13 +1,19 @@
-### Saudações de acordo ao horário do dia👋 Bem-vindo ao meu perfil, eu sou
-<h1>Maurício Mbala, prazer 😊🤝</h1>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Maurício+Mbala;I'm+18+years+old;I+from+Angola;I'm+front-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+  
+</div>
+
 
 - 💻 Desenvolvedor web
 - 🎯 Actualmente trabalho como front-end developer e suporte de operações
 
 <div align="justify">
   <a href="https://github.com/MauricioMbala02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauricioMbala02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioMbala02&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauricioMbala02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioMbala02&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## 💻 Pilha de Tecnologia
@@ -34,4 +40,11 @@
   <a href="https://web.facebook.com/mauricionsakumunudaniel.mbala" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/MbalaMauricio" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mauriciombalajr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+
+<br />
+<br />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div>
