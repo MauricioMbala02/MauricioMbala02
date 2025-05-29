@@ -12,11 +12,11 @@
 
 -  👯 In whatever it is opportune for me to participate, I will always be active to give my input, as long as it is one of my abilities. ...
 
-- 🔥 Software developer 
+- 🔥 Développeur front-end
 
-- 👨‍💻 My projects are currently some in my repositories
+- 👨‍💻 Mes projets sont actuellement dans mes dépôts
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, Mysql, Python, REACT, C# and more**
+- 💬 Posez-moi des questions sur **JavaScript, TypeScript, Tailwind, Node.JS, NEXT, REACT et plus encore**
 
 - ⚡ Fun fact **Situation Point 😜**
 
