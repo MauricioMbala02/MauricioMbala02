@@ -18,7 +18,7 @@
 
 - 💬 Posez-moi des questions sur **JavaScript, TypeScript, Tailwind, Node.JS, NEXT, REACT et plus encore**
 
-- ⚡ Fun fact **Situation Point 😜**
+- ⚡ Fait amusant **Situation Point 😜**
 
 <div align="justify">
   <a href="https://github.com/MauricioMbala02">
