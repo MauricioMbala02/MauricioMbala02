@@ -16,7 +16,7 @@
 
 - 👨‍💻 Mes projets sont actuellement dans mes dépôts
 
-- 💬 Posez-moi des questions sur **JavaScript, TypeScript, Tailwind Css, Node.JS, Next Js, React Js et plus encore**
+- 💬 Posez-moi des questions sur **JavaScript, TypeScript, Tailwind Css, Node.JS, Next.Js, React.Js et plus encore**
 
 - ⚡ Fait amusant **Situation Point 😜**
 
