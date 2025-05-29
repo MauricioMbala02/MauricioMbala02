@@ -20,6 +20,8 @@
 
 - ⚡ Fait amusant **Situation Point 😜**
 
+## ⚙️ &nbsp;Analyses GitHub
+
 <div align="justify">
   <a href="https://github.com/MauricioMbala02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauricioMbala02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
