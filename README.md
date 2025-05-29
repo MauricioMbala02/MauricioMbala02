@@ -5,10 +5,20 @@
 
   
 </div>
+<br />
+<em><p style="font-weight: 700;">Envoyez un message et je vous répondrai!</p></em>
 
+-  🌱 More about algorithms and ways to make the code more and more intelligent, that is,       practicing automation more ...
 
-- 💻 Desenvolvedor web
-- 🎯 Actualmente trabalho como front-end developer e suporte de operações
+-  👯 In whatever it is opportune for me to participate, I will always be active to give my input, as long as it is one of my abilities. ...
+
+- 🔥 Software developer 
+
+- 👨‍💻 My projects are currently some in my repositories
+
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, Mysql, Python, REACT, C# and more**
+
+- ⚡ Fun fact **Situation Point 😜**
 
 <div align="justify">
   <a href="https://github.com/MauricioMbala02">
