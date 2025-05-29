@@ -8,9 +8,9 @@
 <br />
 <em><p style="font-weight: 700;">Envoyez un message et je vous répondrai!</p></em>
 
--  🌱 More about algorithms and ways to make the code more and more intelligent, that is,       practicing automation more ...
+-  🌱 En savoir plus sur les algorithmes et les moyens de rendre le code de plus en plus intelligent, c'est-à-dire de pratiquer davantage d'automatisation...
 
--  👯 In whatever it is opportune for me to participate, I will always be active to give my input, as long as it is one of my abilities. ...
+-  👯 Dans tout ce qui est opportun pour moi de participer, je serai toujours actif pour donner mon avis, tant que cela fait partie de mes capacités. ...
 
 - 🔥 Développeur front-end
 
@@ -56,7 +56,21 @@ J'oubliais déjà ça 😜😜😜😜 :
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=xcode)&nbsp;
 
-##
+<!--
+<br><br>
+
+## 👨🏽‍🦲 &nbsp;Social Links
+
+<p align="left">
+<a href="https://www.facebook.com/antoniocampos.gabriel" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-@antoniogabriel-05122A?style=flat&logo=facebook" alt="facebook"/>
+</a>
+<a href="https://www.linkedin.com/in/ant%C3%B3nio-gabriel-066b7a1a4/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-@antoniogabriel-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/lunaticcosem.jeito/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-@antoniogabriel-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
 
 <div>
   <a href="https://www.instagram.com/mauriciombala/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -66,9 +80,8 @@ J'oubliais déjà ça 😜😜😜😜 :
   <a href="https://twitter.com/MbalaMauricio" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mauriciombalajr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+ -->
 
-
-<br />
 <br />
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
