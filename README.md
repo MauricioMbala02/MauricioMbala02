@@ -20,6 +20,7 @@
 
 - ⚡ Fait amusant **Situation Point 😜**
 
+<br />
 ## ⚙️ &nbsp;Analyses GitHub
 
 <div align="justify">
